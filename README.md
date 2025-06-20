@@ -14,6 +14,8 @@ This repo includes the code used for implementing OmniMatch, as described in "Om
 
 ## Datasets and other files
 
+The dataset can be downloaded from this location: https://zenodo.org/records/15705578
+
 Details:
 
 * `omnimatch_artifacts/datasets` contains test and train datasets for both our join benchmarks.
