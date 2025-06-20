@@ -18,10 +18,10 @@ The dataset can be downloaded from this location: https://zenodo.org/records/157
 
 Details:
 
-* `omnimatch_artifacts/datasets` contains test and train datasets for both our join benchmarks.
-* `omnimatch_artifacts/features` contains column-pairwise similarity metrics for each measure used in the paper (in .pickle format) for both our join benchmarks and their corresponding test and train datasets.
-* `omnimatch_artifracts/samples` contains samples of training datasets that can be used for training, for both join benchmarks.
-* `omnimatch_artifacts/matches` contains all join and non-join pairs of training and test datasets for both our join benchmarks (in .pickle format).
+* `data-products-matching/datasets` contains test and train datasets for both our join benchmarks.
+* `data-products-matching/assets/features` contains column-pairwise similarity metrics for each measure used in the paper (in .pickle format) for both our join benchmarks and their corresponding test and train datasets.
+* `data-products-matching/assets/samples` contains samples of training datasets that can be used for training, for both join benchmarks.
+* `data-products-matching/assets/matches` contains all join and non-join pairs of training and test datasets for both our join benchmarks (in .pickle format).
 
 ## Running OmniMatch
 
