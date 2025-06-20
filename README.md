@@ -13,6 +13,7 @@ This repo includes the code used for implementing OmniMatch, as described in "Om
 * [`config_files`]() Contains configuration files for each python script included in `src`.
 
 ## Datasets and other files
+Benchmark datasets and other files, containing pre-computed results needed as input to OmniMatch, can be found [here](https://drive.google.com/file/d/1qQkzB4v0AhvzCDMHG92x-ZDyNU5Ll1Pi/view?usp=sharing).
 
 Details:
 
